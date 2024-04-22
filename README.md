@@ -1,1 +1,9 @@
 # Module-8-client-sever-class-project-two
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+To write codes that are maintainable, readable, and adaptable by simplely making sure to double check your code for common errors like misspelling etc. . When making the CRUD python module it was important to make sure i went in order as well as appling the right things needed. The advantages is being able to operate the basic operations create, read, update, and delete. You can use this to help allow users to view and search the information.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+As a computer scientist you have to approach everything with caution. With the project for Grazioso Salvare i had common mistakes by applying the wrong thing. Alot of it was overthought once i took a breath and focused i was able to apply information i have learned throughout this class.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists are scholars who specialize in the academic study of computer science. It matters because they create soultions for programs by combining technology, technical skills, and analytical thinking.To help any company i would apply every tool mentioned and more.
